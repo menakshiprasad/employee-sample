@@ -5,7 +5,7 @@ Sample As a Service provides RESTful web services based on modern tech stacks li
 ## Available APIs
 
 /ops/operations ->
-	List all available operations available in Sample As a Service.
+	List all operations available in Sample As a Service.
 
 /ops/version ->
 	Returns current version
